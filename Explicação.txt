@@ -1,0 +1,5 @@
+Conexão com o banco de dados: O código estabelece uma conexão com o MySQL usando mysqli.
+Adição de tarefas: As tarefas podem ser adicionadas via um formulário simples no index.php.
+Exclusão de tarefas: O link de exclusão em cada tarefa redireciona para delete.php, onde a tarefa é removida.
+Segurança: O código utiliza real_escape_string para evitar injeção de SQL.
+Estilização: Um CSS básico para tornar a interface mais amigável.
